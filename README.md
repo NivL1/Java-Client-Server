@@ -1,2 +1,2 @@
 # Java-Client-Server
-client server games project
+web interactive server of 2 games- Catch The Bunny and Tic Tac Tow.
