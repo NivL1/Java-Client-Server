@@ -1,2 +1,2 @@
 # Java-Client-Server
-web interactive server of 2 games- 'catch the bunny' and 'tic tac tow'.
+web interactive server of 2 games - 'catch the bunny' and 'tic tac tow'.
