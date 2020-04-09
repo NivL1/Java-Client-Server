@@ -9,7 +9,7 @@ Interactive Java client-server project of 2 games:
 - App programmed with MVC design pattern logic
 
 ### Structure 
-(https://github.com/NivL1/JavaClientServer/blob/master/Docs/Screen%20Shot%202020-03-18%20at%2015.27.24.png)
+![structure](https://github.com/NivL1/JavaClientServer/blob/master/Docs/Screen%20Shot%202020-03-18%20at%2015.27.24.png)
 
 ### Setup development environment
 - [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/kepler/sr2/eclipse-ide-java-developers)
