@@ -16,10 +16,11 @@ Interactive Java client-server project of 2 games:
 - [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 ### Video illustrates
-- [Videp](https://www.youtube.com/watch?v=C9E_3XkX6Zc)
+- [Video](https://www.youtube.com/watch?v=C9E_3XkX6Zc)
 
 ### Run the program
 - install IDE, JDK
 - Run server: run JavaClientServer/GameServerProject
 - Run command $ START
 - Run JavaClientServer/Jar/client.jar or JavaClientServer/GameClientProject
+- Play
